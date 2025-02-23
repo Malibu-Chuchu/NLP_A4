@@ -76,7 +76,7 @@ The training process is as follows:
 
 ## VDO 
 - You can watch application demo via this link: https://www.youtube.com/watch?v=rzzxpuQ9dGk
-- FYI: Since .pth is too large you can access all my model via this drive link: 
+- FYI: Since .pth is too large you can access all my model via this drive link: https://drive.google.com/drive/folders/18tTuJUr7iRipc1gAhtwPqAqnkuRyYab9?usp=sharing
 
   
 
