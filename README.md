@@ -72,7 +72,7 @@ The training process is as follows:
    - Consider another architecture to make a better model sentence for pair relationships.
 
 ## Application Demo
-- You can run: run **python app.py** !! but you have to move GG drive link to model file !!
+- You can run: run **python app.py** !! but you have to download and move models in GG drive link to the model file !!
 
 ## VDO 
 - You can watch application demo via this link: https://www.youtube.com/watch?v=rzzxpuQ9dGk
