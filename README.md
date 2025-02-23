@@ -39,10 +39,10 @@ BERT consists of:
 
 ## 2. Evaluation and Analysis
 ### Performance Table
-| Model Type          | SNLI + MNLI Performance (Accuracy)|
+| Model Type          | SNLI and MNLI Performance (Accuracy)|
 |---------------------|-----------|
 | S-BERT Model          | 30.7%   |
-# S-BERT Model for SNLI + MNLI Classification
+## S-BERT Model for SNLI + MNLI Classification
 Implementation of the S-BERT model, trained on the **SNLI** (Stanford Natural Language Inference) and **MNLI** (Multi-Genre Natural Language Inference) datasets for sentence pair classification. The goal is to predict the relationship (entailment, contradiction, or neutral) between two sentences: a premise and a hypothesis.
 ## Model Performance
 The S-BERT model, trained on SNLI + MNLI datasets, achieved the following performance:
@@ -72,11 +72,11 @@ The training process is as follows:
    - Consider another architecture to make a better model sentence for pair relationships.
 
 ## Application Demo
-- You can run: python app.py
+- You can run: run **python app.py** !! but you have to move GG drive link to model file !!
 
 ## VDO 
 - You can watch application demo via this link: https://www.youtube.com/watch?v=rzzxpuQ9dGk
-FYI: .pth is too large you can access all my model via this drive link: 
+- FYI: Since .pth is too large you can access all my model via this drive link: 
 
   
 
