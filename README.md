@@ -60,7 +60,7 @@ The training process is as follows:
 6. **Accuracy:** The accuracy is computed after each epoch by comparing the model's predictions with the true labels.
 
 ## Challenges and Limitations
-- **Low Accuracy:** The model achieved only **30.7% accuracy**, which suggests potential issues with underfitting, model complexity, and optimization.
+- **Low Accuracy:** The model achieved only **30.7% accuracy**, which suggests potential issues with underfitting, model complexity, and optimization, after running when creating application and it turns out to the wrong labeled whether it should in Contradiction but it down to Entailment.
 - **Limited Batch Size:** A batch size of **8** might hinder convergence and generalization.
 - **Simplified Architecture:** The model uses **mean pooling** for feature extraction, which may not fully capture the premise-hypothesis relationship.
 - **Training Time:** The model was trained for **5 epochs**, which may be insufficient for complex NLI tasks.
@@ -73,7 +73,12 @@ The training process is as follows:
 
 ## Application Demo
 - You can run: python app.py
-- 
+
+## VDO 
+- You can watch application demo via this link: https://www.youtube.com/watch?v=rzzxpuQ9dGk
+FYI: .pth is too large you can access all my model via this drive link: 
+
+  
 
 
 
